@@ -15,7 +15,7 @@ This project is a Django-based web application that generates blogs from YouTube
 - AI APIs: The application uses AI APIs for content generation. You will need to obtain API keys for these services.
 
 ## Getting Started
-1. Clone the Repository: Clone this repository to your local machine using git clone https://github.com/tomitokko/ai-blog-article-generator.git.
+1. Clone the Repository: Clone this repository to your local machine using git clone https://github.com/somwrks/AI-Blog-Generator.git.
 2. Install Dependencies: Install the required dependencies by running pip install -r requirements.txt.
 3. Configure AI APIs: Configure the AI APIs by setting up API keys and other necessary settings.
 4. Run the Application: Run the application using python manage.py runserver.
