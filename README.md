@@ -25,4 +25,4 @@ This project is a Django-based web application that generates blogs from YouTube
 - Contributions are welcome. If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
